@@ -1,1 +1,1 @@
-# Paper Collection for Conversational Recommendation System
+# Paper Collection for Conversational Recommendation System (CRS)
