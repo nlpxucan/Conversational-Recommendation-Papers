@@ -54,6 +54,7 @@ Markdown format:
 - [Towards Deep Conversational Recommendations](https://papers.nips.cc/paper/2018/hash/800de15c79c8d840f4e78d3af937d4d4-Abstract.html) - Li et al, **NeurIPS 2018**.
 - [Conversational Recommender System](https://arxiv.org/abs/1806.03277) - Sun et al, **SIGIR 2018**.
 - [Towards Conversational Search and Recommendation: System Ask, User Respond](http://yongfeng.me/attach/conv-search-rec-zhang2018.pdf) - Zhang et al, **CIKM 2018**.
+- [Playing 20 Question Game with Policy-Based Reinforcement Learning](https://arxiv.org/abs/1808.07645) - Hu et al, **EMNLP 2018**.
 - [Knowledge-aware Multimodal Dialogue Systems](http://staff.ustc.edu.cn/~hexn/papers/mm18-multimodal-dialog.pdf) - Liao et al, **ACM-MM 2018**.
 
 
