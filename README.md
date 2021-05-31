@@ -1,5 +1,5 @@
 # Paper Collection for Conversational Recommendation System (CRS)
-A curated list of existing literature on the **conversational recommendation system**, **information-seeking dialog system** and related areas, which are the emerging trend towards building interactive information retrieval/recommender systems based on the conversational techiques.
+A curated list of existing literature on the **conversational recommendation system**, **information-seeking dialog system** and related areas, which are the emerging trend towards building interactive information retrieval/recommender systems based on the conversational techniques.
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/stonyhu/CRS/pulls) or email (tonyhu2020@gmail.com) to add links.
