@@ -21,6 +21,11 @@ Markdown format:
 
 ### 2021
 
+- [Learning Neural Templates for Recommender Dialogue System](https://arxiv.org/pdf/2109.12302.pdf) - Liang et al., **EMNLP 2021**
+- [DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation](https://arxiv.org/abs/2109.08877) - Liu et al., **EMNLP 2021**
+- [CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation](https://arxiv.org/abs/2010.10333) - Ma et al., **EMNLP 2021**
+- ["It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems](https://arxiv.org/abs/2109.07576) - Bursztyn et al., **EMNLP 2021**
+- [CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs]() - Zhou et al., **EMNLP 2021**
 - [Personalized Transformer for Explainable Recommendation](https://arxiv.org/abs/2105.11601) - Li et al, **ACL 2021**.
 
 
